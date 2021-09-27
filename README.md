@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @armydickerson
-- 👀 I’m interested in ...Frontend web dev, the NBA, hip-hop, movies, books and graphic novels. 
-- 🌱 I’m currently learning ...HTML, CSS, JavaScript, and React. I'll later be introduced to some backend stuff like Node.js and Express.js in my course. 
+- 👀 I’m interested in ...front-end web dev, the NBA, hip-hop, movies, books and graphic novels. 
+- 🌱 I’m currently learning ...HTML, CSS, JavaScript, and React. I'm interested in learning other JS frameworks such as Angular and Vue.  
 - 💞️ I’m looking to collaborate on ...I'm not sure yet. 
 - 📫 How to reach me ...armydickerson@gmail.com.
 
